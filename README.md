@@ -1,7 +1,7 @@
 # Asset Tracker for Jira
 
 {% hint style="info" %}
-This is new version of doc
+This is new version of doc test
 {% endhint %}
 
 Asset Tracker for Jira is a asset/resource/inventory management system which integrates with Jira, allowing you to manage any type of asset: from laptops & smartphones to printers & TVs.  
