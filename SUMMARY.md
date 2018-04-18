@@ -18,7 +18,7 @@
     * [Service Desk](integrations/asset-custom-field/service-desk.md)
     * [Asset field statistics](integrations/asset-custom-field/asset-field-statistics.md)
   * [REST API](integrations/remote-rest-api.md)
-* Mobility
+* Mobile access
   * [Mobile view](mobility/mobile-view.md)
   * [Label scanners](mobility/label-scanners.md)
 * [Searching assets](searching/README.md)
