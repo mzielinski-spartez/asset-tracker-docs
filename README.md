@@ -1,6 +1,6 @@
 # Asset Tracker for Jira
 
-Asset Tracker allows you to track, manage and report on your company's assets with ease.
+⚡️Asset Tracker allows you to track, manage and report on your company's assets with ease.
 
 Gone are the days of manual data entry into spreadsheets!
 
