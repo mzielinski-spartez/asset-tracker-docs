@@ -16,7 +16,7 @@ You need to prepare a separate CSV file for each of your asset types. You can pr
 
 The first row of the CSV file must contain cells which contain "dotted" field type names \(see image below\). These field type names must match the dotted names defined in Asset Tracker.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 
 
@@ -28,13 +28,13 @@ CSV file example:
 
 The best way to create a skeleton CSV file is to export data from Asset Tracker asset browser:
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 
 
 The best way to get all fields' dotted names is to select "All fields" in the dialog that is popped up:
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 
 

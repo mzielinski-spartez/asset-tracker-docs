@@ -5,13 +5,13 @@ When browsing folder or listing search results you can select which fields are t
 
 If you haven't defined any templates yet, you start with **Default** one. You can modify visible columns set by clicking Visible Fields -&gt; Edit templates link.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 
 
 To select fields drag them to _Selected Fields_ pane. The fields can also be reordered. In order to show item ID in the item list view use the checkbox _Show item ID in details view_.
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 
 

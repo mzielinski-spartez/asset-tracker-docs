@@ -4,7 +4,7 @@ Asset Tracker comes with a built-in basic set of asset fields. When default fiel
 
 Go to Administration and in section "Field Types" click "Add Field Type" button.
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 
 
@@ -16,7 +16,7 @@ Go to "Asset Types" section and click "Fields" link for "Fire Extinguisher" asse
 
 Click the cog icon on the "Expiration day" section in your layout. Check "Show in Asset Creation", so the field will always appear on asset creation dialog.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
   
 

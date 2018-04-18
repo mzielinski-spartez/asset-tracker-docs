@@ -10,7 +10,7 @@ Using Asset Tracker, you can easily report your data to CSV format that is compa
 
 You can either use folder tree or enter query in the "Search for assets" box like on the screen below \(see Search query syntax for details\).
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ### Pick or create report template
 

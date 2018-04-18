@@ -22,7 +22,7 @@ You are presented with a set of options, all more-less self explanatory, the mos
 
 After you click "Save", you are ready to scan your network for Windows hosts.
 
-![](../../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../../.gitbook/assets/image%20%2846%29.png)
 
 {% hint style="info" %}
 A default XML configuration file is available in the [bitbucket repository](https://bitbucket.org/spartez/ephor-scanners/raw/214b8976d0eed672d0b6fbac1e786598f8fbb974/windows/commandline/default_wmi_config.xml). Read the comments in this file for instructions on how to customize it to your needs.
