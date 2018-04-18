@@ -1,4 +1,4 @@
-# Searching
+# Searching assets
 
 {% page-ref page="search-query-syntax/" %}
 
