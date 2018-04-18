@@ -14,7 +14,7 @@ Operation sequences can be added and edited from a couple of places:
 
 * from the button on the asset page:
 
-  ![](../../.gitbook/assets/image%20%2818%29.png)
+  ![](../../.gitbook/assets/image%20%2819%29.png)
 
 ### Adding and editing operation sequence
 

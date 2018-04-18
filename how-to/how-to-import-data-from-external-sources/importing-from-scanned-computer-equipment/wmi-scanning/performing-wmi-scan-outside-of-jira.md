@@ -51,7 +51,7 @@ A default XML configuration file is available in the [bitbucket repository](http
 
 The most convenient way to scan your own computer is to use the "Scan My Computer" utility included in the scanner application package. This application only requires supplying Jira URL, credentials, asset folder in Asset Tracker and asset type to create, and clicking "Scan and update". Configuration has to only be performed once - the application remembers stored values \(password is stored securely\). Scan and update results are displayed in the "Update log" panel.
 
-![](../../../../.gitbook/assets/image%20%2820%29.png)
+![](../../../../.gitbook/assets/image%20%2821%29.png)
 
 #### Using command line {#PerformingWMIscanoutsideofJIRA-Usingcommandline}
 

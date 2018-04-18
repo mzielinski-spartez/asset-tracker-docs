@@ -36,13 +36,13 @@ Once you set up the profile, you can press the "Scan" button to begin inventory 
 {% tab title="Android" %}
 
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 {% endtab %}
 
 {% tab title="iPhone" %}
 
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -58,7 +58,7 @@ Scanning is fully automated - when the QR code is identified, the date field is 
 {% tab title="iPhone" %}
 
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 {% endtab %}
 {% endtabs %}
 
