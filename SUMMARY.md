@@ -12,15 +12,15 @@
   * [Creating links between assets](quick-start/creating-links-between-assets.md)
   * [Creating issue for an asset](quick-start/untitled.md)
   * [Customizing assets list view](quick-start/customizing-assets-list-view.md)
+* Mobile access
+  * [Mobile view](mobility/mobile-view.md)
+  * [Label scanners](mobility/label-scanners.md)
 * Integrations
   * Asset custom field
     * [Jira](integrations/asset-custom-field/jira.md)
     * [Service Desk](integrations/asset-custom-field/service-desk.md)
     * [Asset field statistics](integrations/asset-custom-field/asset-field-statistics.md)
   * [REST API](integrations/remote-rest-api.md)
-* Mobile access
-  * [Mobile view](mobility/mobile-view.md)
-  * [Label scanners](mobility/label-scanners.md)
 * [Searching assets](searching/README.md)
   * [Search query syntax](searching/search-query-syntax/README.md)
     * [Functional searches](searching/search-query-syntax/functional-searches.md)
@@ -28,7 +28,7 @@
   * [Scheduled searches](searching/scheduled-searches.md)
   * [Primary assets](searching/primary-assets.md)
   * [Searching for JIRA issues with assets](searching/searching-for-jira-issues-with-assets.md)
-* [How to](how-to/README.md)
+* How to
   * [How to control access to assets](how-to/how-to-control-access-to-assets.md)
   * [How to create reports](how-to/how-to-create-reports.md)
   * [How to import data from external sources](how-to/how-to-import-data-from-external-sources/README.md)
