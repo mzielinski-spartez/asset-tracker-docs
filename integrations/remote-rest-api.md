@@ -1,4 +1,4 @@
-# Remote \(REST\) API
+# REST API
 
 ## Introduction {#Remote(REST)API-Introduction}
 
