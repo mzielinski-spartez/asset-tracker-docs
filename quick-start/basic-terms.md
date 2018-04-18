@@ -1,9 +1,5 @@
 # Basic terms
 
-{% hint style="info" %}
-During this introduction we will use sample data delivered with Asset Tracker. You can import them in Asset Tracker Administration in "Import/Export" section.
-{% endhint %}
-
 Every single inventory asset stored in Asset Tracker is called an **asset**. It may be a mouse, keyboard, chair or any other asset that you would like to manage. 
 
 The screen below contains sample list of assets. Each asset has some data associated with them like name, value, serial number, manufacturer and icon.
