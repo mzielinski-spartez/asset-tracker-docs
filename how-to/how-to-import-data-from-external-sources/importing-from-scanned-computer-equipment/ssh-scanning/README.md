@@ -23,7 +23,7 @@ You can download the scanner application from [Bitbucket](https://bitbucket.org/
 Go [here](https://bitbucket.org/spartez/ephor-scanners) for the source of the application, which is licensed under [Apache license](http://www.apache.org/licenses/LICENSE-2.0).
 {% endhint %}
 
-To perform SSH scan from within Jira, the scanner application must be installed on the computer where your Jira is located, which means that your Jira must run on Linux. It is also possible to use the application in "standalone" mode \(not invoked from Jira\). In this mode, you need to invoke the application from Linux or macOS command line, and supply it with your Jira user credentials. See [Performing SSH Scan outside of Jira](https://confluence.spartez.com/display/AT4J/Performing+SSH+Scan+outside+of+JIRA) for more details.
+To perform SSH scan from within Jira, the scanner application must be installed on the computer where your Jira is located, which means that your Jira must run on Linux. It is also possible to use the application in "standalone" mode \(not invoked from Jira\). In this mode, you need to invoke the application from Linux or macOS command line, and supply it with your Jira user credentials. See [Performing SSH Scan outside of Jira](performing-ssh-scan-outside-of-jira.md) for more details.
 
 The application attempts to connect to all sepcified hosts on network ranges configured in scanning profiles. When the host responds, SSH scan is performed for data corresponding to configured asset type fields. Then the application updates Asset Tracker with this data, either creating a new computer asset, or updating one, depending on whether the asset with MAC address matching the scanned one exists in any known computer assets.
 
