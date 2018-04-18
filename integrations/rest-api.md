@@ -37,7 +37,7 @@ The REST resources with paths starting with `/item` operate on Ephor items/asset
 | `/item/`**`{itemId}`** | GET |   |   | Returns asset with a given ID |
 |   | DELETE |   |   | Deletes asset with a given ID |
 | `/item/`**`{itemId}`**`/links` | GET |   |   | Returns links incoming to and outgoing from asset with a given ID |
-|   | POST |   | JSON | Links an asset to another asset using a link of a given type \(see [link types](remote-rest-api.md#link-types)\). Data parameter is a JSON like this:`{    type: { id: 10000 },    inbound: { id: 10001 },    outbound: { id: 10002 }}`Returns a newly created lnk |
+|   | POST |   | JSON | Links an asset to another asset using a link of a given type \(see [link types](rest-api.md#link-types)\). Data parameter is a JSON like this:`{    type: { id: 10000 },    inbound: { id: 10001 },    outbound: { id: 10002 }}`Returns a newly created lnk |
 | `/item/`**`{itemId}`**`/links/`**`{linkId}`** | DELETE |   |   | Deletes an asset link |
 | `/item/`**`{itemId}`**`/linkgraph` | GET | levels |   | Returns a graph of links for an asset with a given ID. **levels** parameter specifies the depth of a graph \(default is 3\) |
 | `/item/`**`{itemId}`**`/history` | GET |   |   | Returns a history of asset with a given ID |
@@ -90,7 +90,7 @@ The resources with paths starting with `/itemtype` are for operations on Asset T
 |   | PUT |   | JSON | Updates an asset type given by a numerical ID or dotted name. See above for the data format. |
 |   | DELETE |   |   | Deletes an asset type given by a numerical ID or dotted name |
 
-The resources with paths starting with `/fieldtype` are for operations on Asset Tracker [field types](../quick-start/defining-an-asset-field.md). Field types are not directly tied to asset types - the same field type can exist in multiple asset types. They are associated with asset types using the `/itemtypefield` resources, which define a given field type parameters, such as label title, position, size and colors, when it is used in a concrete asset type.
+The resources with paths starting with `/fieldtype` are for operations on Asset Tracker [field types](../guide/defining-an-asset-field.md). Field types are not directly tied to asset types - the same field type can exist in multiple asset types. They are associated with asset types using the `/itemtypefield` resources, which define a given field type parameters, such as label title, position, size and colors, when it is used in a concrete asset type.
 
 | **Path \(with parameters\)** | **Method** | **URL Parameters** | **Data Parameters** | **Description** |
 | --- | --- | --- | --- | --- | --- |

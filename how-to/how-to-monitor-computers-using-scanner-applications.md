@@ -65,7 +65,7 @@ The most important part of setting up the computer monitoring is configuring the
 </fields>
 ```
 
-The **`custom.system.uptime`** field used in the example is a field set up in Asset Tracker for storing uptime - you need to [define this field](../quick-start/defining-an-asset-field.md) in your Asset Tracker data scheme.
+The **`custom.system.uptime`** field used in the example is a field set up in Asset Tracker for storing uptime - you need to [define this field](../guide/defining-an-asset-field.md) in your Asset Tracker data scheme.
 
 Note that in both cases, the **`updateOnly` **property is set to **`true` **in the **`matcher` **element. This assures that the scanner will not create new asset records - it will only update existing ones.
 

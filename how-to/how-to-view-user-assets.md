@@ -1,6 +1,6 @@
 # How to view user assets
 
-"User asset" is any asset that has a field of type "User" set to the given user. Also, all assets linked to this asset are considered "user's assets". To associate the "main" user asset \(representing the user themselves\) with a Jira user, you should set up [user synchronization](how-to-synchronize-users.md). You can then simply [link other assets](../quick-start/creating-links-between-assets.md) to this asset and they also become linked to the user.
+"User asset" is any asset that has a field of type "User" set to the given user. Also, all assets linked to this asset are considered "user's assets". To associate the "main" user asset \(representing the user themselves\) with a Jira user, you should set up [user synchronization](how-to-synchronize-users.md). You can then simply [link other assets](../guide/creating-links-between-assets.md) to this asset and they also become linked to the user.
 
 The easiest way to browse your assets is to open the "Assets" top level menu and select "My Assets":
 
