@@ -10,7 +10,7 @@ With Asset Tracker for Jira, you can:
   * [CSV import](how-to/how-to-import-data-from-external-sources/importing-from-a-csv-file.md)
   * [SSH or WMI Discovery](how-to/how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/)
 * Tag all of your physical assets with printable QR codes and labels
-  * [Updating assets is as easy as scanning a QR code](label-scanners.md)
+  * [Updating assets is as easy as scanning a QR code](mobility/label-scanners.md)
 * Allow employees or customers to seamlessly check-out / check-in assets via our mobile apps
   * Scan a QR code, then check-out / check-in assets
   * Help employees help themselves with self-service check-outs
@@ -18,6 +18,6 @@ With Asset Tracker for Jira, you can:
   * [Create and visualise asset groups, such as on-boarding hardware / software bundles](quick-start/creating-links-between-assets.md)
   * [Define asset hierarchies, such as parent &lt;&gt; child tree](quick-start/working-with-folders.md)
 * Link assets with your Jira Software or Service Desk projects
-  * [Streamline support, purchasing or HR related requests tied to your assets](asset-custom-field/service-desk.md)
+  * [Streamline support, purchasing or HR related requests tied to your assets](integrations/asset-custom-field/service-desk.md)
   * [Automate actions on your assets with post-function workflows in Jira](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-3.md)
 

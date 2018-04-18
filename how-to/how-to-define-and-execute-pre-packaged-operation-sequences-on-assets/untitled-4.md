@@ -8,7 +8,7 @@ Scanning the label with this application automatically updates the asset record 
 
 ### Setting up label scanning profile in the mobile application
 
-To actually run the inventory check, you need the [Android or iPhone application](../../label-scanners.md). The application is simple to use. It lets you define "Scan Profiles", which determine your Jira URL and credentials, and the operation sequence to execute when the QR code is scanned. To define the profile, pick the "_Add operation sequence profile"_ menu entry after clicking the "+" button \(you can also add the profile that [sets date field](../how-to-perform-inventory-checks.md) from that menu\):
+To actually run the inventory check, you need the [Android or iPhone application](../../mobility/label-scanners.md). The application is simple to use. It lets you define "Scan Profiles", which determine your Jira URL and credentials, and the operation sequence to execute when the QR code is scanned. To define the profile, pick the "_Add operation sequence profile"_ menu entry after clicking the "+" button \(you can also add the profile that [sets date field](../how-to-perform-inventory-checks.md) from that menu\):
 
 {% tabs %}
 {% tab title="Android" %}

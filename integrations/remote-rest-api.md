@@ -54,7 +54,7 @@ The resources with paths starting with `/search `are for searching for items and
 
 | **Path \(with parameters\)** | **Method** | **URL Parameters** | **Data Parameters** | **Description** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `/search` | GET | querymaxcountoffset |   | Searches for assets given by the **query **parameter \(read more on [Search query syntax](searching/search-query-syntax/)\). **maxcount** and **offset**parameters can be used for paging results |
+| `/search` | GET | querymaxcountoffset |   | Searches for assets given by the **query **parameter \(read more on [Search query syntax](../searching/search-query-syntax/)\). **maxcount** and **offset**parameters can be used for paging results |
 | `/search/searches/my` | GET |   |   | Returns a list of personal saved searches |
 |   | PUT |   | JSON | Replaces a list of personal saved searches with a given list of`{    name: "my search name",    nql: "type = Computer"}` |
 | `/search/searches/my/`**`{id}`** | PUT |   | JSON | Updates a personal saved search with a given ID with a supplied value \(see above for the format of data\) |
@@ -90,7 +90,7 @@ The resources with paths starting with `/itemtype` are for operations on Asset T
 |   | PUT |   | JSON | Updates an asset type given by a numerical ID or dotted name. See above for the data format. |
 |   | DELETE |   |   | Deletes an asset type given by a numerical ID or dotted name |
 
-The resources with paths starting with `/fieldtype` are for operations on Asset Tracker [field types](quick-start/defining-an-asset-field.md). Field types are not directly tied to asset types - the same field type can exist in multiple asset types. They are associated with asset types using the `/itemtypefield` resources, which define a given field type parameters, such as label title, position, size and colors, when it is used in a concrete asset type.
+The resources with paths starting with `/fieldtype` are for operations on Asset Tracker [field types](../quick-start/defining-an-asset-field.md). Field types are not directly tied to asset types - the same field type can exist in multiple asset types. They are associated with asset types using the `/itemtypefield` resources, which define a given field type parameters, such as label title, position, size and colors, when it is used in a concrete asset type.
 
 | **Path \(with parameters\)** | **Method** | **URL Parameters** | **Data Parameters** | **Description** |
 | --- | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ The resources with paths starting with `/linktype` are for operations on types o
 
 ### Operation Sequences {#Remote(REST)API-OperationSequences}
 
-The resources with paths starting with `/stored-operation` are for defining and executing [Defining operation sequences](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/defining-operation-sequences.md).
+The resources with paths starting with `/stored-operation` are for defining and executing [Defining operation sequences](../how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/defining-operation-sequences.md).
 
 | Path \(with parameters\) | Method | URL Parameters | Data Parameters | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
