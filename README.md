@@ -21,5 +21,3 @@ With Asset Tracker for Jira, you can:
   * [Streamline support, purchasing or HR related requests tied to your assets](asset-custom-field/service-desk.md)
   * [Automate actions on your assets with post-function workflows in Jira](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-3.md)
 
-[Try it now!](https://marketplace.atlassian.com/plugins/com.spartez.jira.plugins.ephor-for-jira/server/overview)
-
