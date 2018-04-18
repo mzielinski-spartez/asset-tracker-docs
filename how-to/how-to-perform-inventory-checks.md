@@ -62,7 +62,7 @@ Scanning is fully automated - when the QR code is identified, the date field is 
 {% endtab %}
 {% endtabs %}
 
-Additionally, if you forgot to add the configured date field to scanned asset type, the application will let you add it automatically. This operation requires [administrative permissions](https://confluence.spartez.com/display/AT4J/How+to+control+access+to+assets) in Asset Tracker.
+Additionally, if you forgot to add the configured date field to scanned asset type, the application will let you add it automatically. This operation requires [administrative permissions](how-to-control-access-to-assets.md) in Asset Tracker.
 
 {% hint style="warning" %}
 If the application adds the field to asset type, you will; have to manually reindex you asset database in Jira. This is done in the Asset Tracker administration, "Indexing" section.
