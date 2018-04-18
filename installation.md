@@ -6,7 +6,7 @@ Installation of any Jira add-on can only be performed by a Jira administrator
 
 If you're in doubt that you have sufficient permissions to install Asset Tracker, share this page with your admin via mail, HipChat or Stride
 
-**Share URL**: [https://spartez.gitbook.io/asset-tracker/installation](https://spartez.gitbook.io/asset-tracker/installation)
+**Share URL**: [https://confluence.spartez.com/asset-tracker/installation](https://confluence.spartez.com/asset-tracker/installation)
 
 ### Installing Asset Tracker
 
