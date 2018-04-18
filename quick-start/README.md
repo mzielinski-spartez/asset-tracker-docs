@@ -1,4 +1,4 @@
-# Quick start
+# Guide
 
 Know what you have. Manage it effectively. Get rid of what you don’t need. Save time & money!   
 After reading this tutorial you will know how Asset Tracker can help you in your every day tasks connected with asset management. You will know how to collect and manage your assets effectively.

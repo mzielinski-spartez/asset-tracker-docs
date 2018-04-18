@@ -2,7 +2,7 @@
 
 * [Asset Tracker for Jira](README.md)
 * [Installation](installation.md)
-* [Quick start](quick-start/README.md)
+* [Guide](quick-start/README.md)
   * [Basic terms](quick-start/basic-terms.md)
   * [Creating new asset type](quick-start/creating-new-asset-type.md)
   * [Working with folders](quick-start/working-with-folders.md)
