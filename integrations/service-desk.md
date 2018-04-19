@@ -1,4 +1,4 @@
-# Service Desk
+# Jira Service Desk
 
 ### Usage
 

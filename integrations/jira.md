@@ -13,7 +13,7 @@ When an asset is set in the custom field, Asset Tracker also adds a link from th
 
 ![](https://confluence.spartez.com/download/attachments/34603509/menu.png?version=1&modificationDate=1483352632962&api=v2&effects=drop-shadow)
 
-When browsing for an asset to set in the field, you can browse all assets in Asset Tracker and perform [searches](../../searching/search-query-syntax/) for assets that you are interested in, as shown below.
+When browsing for an asset to set in the field, you can browse all assets in Asset Tracker and perform [searches](../searching/search-query-syntax/) for assets that you are interested in, as shown below.
 
 ![](https://confluence.spartez.com/download/attachments/34603509/picker.png?version=1&modificationDate=1483352498331&api=v2&effects=drop-shadow)
 

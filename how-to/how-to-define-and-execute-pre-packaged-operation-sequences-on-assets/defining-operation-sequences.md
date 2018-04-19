@@ -45,8 +45,8 @@ Some of the field types can be set not just hardcoded values, but also to templa
 | $currentDate$ | text line, text area, date | Date of operation execution |
 | $currentTime$ | text line, text area | Date and time of operation execution |
 | $currentUser$ | text line, text area, user | User executing the operation |
-| $assignee$ | text line, text area, user | Assignee of the issue from which the operation is invoked, or issue [uniquely associated with the asset](../../integrations/asset-custom-field/) |
-| $reporter$ | text line, text area, user | Reporter of the issue from which the operation is invoked, or issue [uniquely associated with the asset](../../integrations/asset-custom-field/) |
+| $assignee$ | text line, text area, user | Assignee of the issue from which the operation is invoked, or issue [uniquely associated with the asset]() |
+| $reporter$ | text line, text area, user | Reporter of the issue from which the operation is invoked, or issue [uniquely associated with the asset]() |
 
 {% hint style="warning" %}
 Some of the templates \(e.g. `$reporter$`\) require Asset Tracker to know what issue to use. In some cases this is obvious, for example when the operation sequence is executed from the issue page or from a workflow post-function. In other cases \(for example on the asset page\), finding out which issue to use is not necessarily trivial. Asset Tracker tries to identify which issue to use by examining which issues the asset is linked to. If it finds exactly one linked issue, it is used. Otherwise an error is generated.
