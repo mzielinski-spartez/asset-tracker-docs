@@ -10,7 +10,7 @@ Asset Tracker provides visibility of the current state of your equipment. It tra
 
 To list available assets go to _Assets_ → _Browse Assets_ as shown on the screenshot below. Assets are grouped in folders. Click the folder that you want to browse form the panel on the left. 
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 
 
 
