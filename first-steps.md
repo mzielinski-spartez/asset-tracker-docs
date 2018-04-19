@@ -30,5 +30,5 @@ Asset tracker provides a powerful search engine. You can learn more about this t
 
 ![](.gitbook/assets/image%20%2847%29.png)
 
-
+## Configuring your mobile device
 
