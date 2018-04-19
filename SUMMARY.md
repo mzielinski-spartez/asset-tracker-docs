@@ -24,9 +24,9 @@
   * [Primary assets](searching/primary-assets.md)
   * [Searching for JIRA issues with assets](searching/searching-for-jira-issues-with-assets.md)
 * Integrations
-  * [Jira](integrations/jira.md)
+  * [Jira asset field](integrations/jira-asset-field/README.md)
+    * [Asset field statistics](integrations/jira-asset-field/asset-field-statistics.md)
   * [Jira Service Desk](integrations/service-desk.md)
-  * [Jira dashboard](integrations/asset-field-statistics.md)
   * [REST API](integrations/rest-api.md)
 * How to
   * [How to control access to assets](how-to/how-to-control-access-to-assets.md)
