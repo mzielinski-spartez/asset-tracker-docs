@@ -4,7 +4,7 @@
 
 Inventory check is a process of locating your assets and recording their presence in Asset Tracker. This lets you identify missing or misplaced assets.
 
-To simplify inventory checks, Asset Tracker provides [mobile application](https://confluence.spartez.com/display/AT4J/Label+Scanners) which lets you quickly scan [asset labels](how-to-print-labels-for-assets.md). Scanning the label automatically sets the value of a selected date field to the current date and time. You can then perform Asset Tracker query for assets which don't have this field set to the present date, thus locating missing assets.
+To simplify inventory checks, Asset Tracker provides [mobile application](../mobile-access/label-scanners.md) which lets you quickly scan [asset labels](how-to-print-labels-for-assets.md). Scanning the label automatically sets the value of a selected date field to the current date and time. You can then perform Asset Tracker query for assets which don't have this field set to the present date, thus locating missing assets.
 
 ### Setting up inventory check
 
@@ -14,7 +14,7 @@ To set up inventory checks, open the "_Inventory Checks"_ administration page, f
 
 ### Running inventory check
 
-To actually run the inventory check, you need the [Android or iPhone application](https://confluence.spartez.com/display/AT4J/Label+Scanners). The application is simple to use. It lets you define "Scan Profiles", which determine your Jira URL and credentials, and the asset field to set when the QR code is scanned. To define the profile, pick the "_Add date field profile"_ menu entry after clicking the "+" button \(you can also add the profile that executes [operation sequence](https://confluence.spartez.com/display/AT4J/Invoking+operation+sequences+by+scanning+asset+label) from that menu\):
+To actually run the inventory check, you need the [Android or iPhone application](../mobile-access/label-scanners.md). The application is simple to use. It lets you define "Scan Profiles", which determine your Jira URL and credentials, and the asset field to set when the QR code is scanned. To define the profile, pick the "_Add date field profile"_ menu entry after clicking the "+" button \(you can also add the profile that executes [operation sequence](https://confluence.spartez.com/display/AT4J/Invoking+operation+sequences+by+scanning+asset+label) from that menu\):
 
 
 
