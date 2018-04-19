@@ -11,14 +11,14 @@ This can be done in two ways:
 * each computer can have a scanner application installed, configured to periodically monitor a given parameter and to report to Asset Tracker.
 * scanner can be configured to periodically connect to computers on the network, query them for a given parameter and report to Asset Tracker.
 
-In both cases, the way to schedule scannig is by plugging into the host computer's scheduling mechanism:
+In both cases, the way to schedule scanning is by plugging into the host computer's scheduling mechanism:
 
-* [task scheduler](https://confluence.spartez.com/display/AT4J/Performing+WMI+scan+outside+of+Jira#PerformingWMIscanoutsideofJira-Schedulingscans) on Windows \(WMI scanner\)
-* [crontab](https://confluence.spartez.com/display/AT4J/Performing+SSH+Scan+outside+of+Jira#PerformingSSHScanoutsideofJira-Schedulingscans) on LInux and Mac \(SSH scanner\)
+* [task scheduler](how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/wmi-scanning/performing-wmi-scan-outside-of-jira.md#scheduling-scans) on Windows \(WMI scanner\)
+* [crontab](how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/ssh-scanning/performing-ssh-scan-outside-of-jira.md#scheduling-scans) on LInux and Mac \(SSH scanner\)
 
 In both cases, the scanner application is run from the command line.
 
-The difference is that in first case \(each computer has its own scanner\), the `--self` option is used \([SSH](https://confluence.spartez.com/display/AT4J/Performing+SSH+Scan+outside+of+JIRA#PerformingSSHScanoutsideofJIRA-Usingcommandline), [WMI](https://confluence.spartez.com/display/AT4J/Performing+WMI+scan+outside+of+JIRA#PerformingWMIscanoutsideofJIRA-Usingcommandline)\). In second case, the [`--ip-range`](https://confluence.spartez.com/display/AT4J/Performing+WMI+scan+outside+of+Jira#PerformingWMIscanoutsideofJira-Scanningnetworksubnetrange) \(WMI\) or [`--range`](https://confluence.spartez.com/display/AT4J/Performing+SSH+Scan+outside+of+Jira#PerformingSSHScanoutsideofJira-Scanningnetworksubnetrange) \(SSH\) option is used.
+The difference is that in first case \(each computer has its own scanner\), the `--self` option is used \([SSH](how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/ssh-scanning/performing-ssh-scan-outside-of-jira.md#using-command-line), [WMI](how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/wmi-scanning/performing-wmi-scan-outside-of-jira.md#using-command-line)\). In second case, the [`--ip-range`](https://confluence.spartez.com/display/AT4J/Performing+WMI+scan+outside+of+Jira#PerformingWMIscanoutsideofJira-Scanningnetworksubnetrange) \(WMI\) or [`--range`](https://confluence.spartez.com/display/AT4J/Performing+SSH+Scan+outside+of+Jira#PerformingSSHScanoutsideofJira-Scanningnetworksubnetrange) \(SSH\) option is used.
 
 ### Configuration
 
