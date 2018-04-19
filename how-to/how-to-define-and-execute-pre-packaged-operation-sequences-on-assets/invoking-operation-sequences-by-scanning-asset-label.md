@@ -12,7 +12,7 @@ To actually run the inventory check, you need the [Android or iPhone application
 
 {% tabs %}
 {% tab title="Android" %}
-| ![](../../.gitbook/assets/image%20%2813%29.png) | ![](../../.gitbook/assets/image%20%2859%29.png) |
+| ![](../../.gitbook/assets/image%20%2813%29.png) | ![](../../.gitbook/assets/image%20%2860%29.png) |
 | --- |
 {% endtab %}
 
@@ -29,7 +29,7 @@ Once you set up the profile, you can press the "Scan" button to execute the sele
 
 {% tabs %}
 {% tab title="Android" %}
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 {% endtab %}
 
 {% tab title="iPhone" %}

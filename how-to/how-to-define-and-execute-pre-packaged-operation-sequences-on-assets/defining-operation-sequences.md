@@ -32,7 +32,7 @@ To add an operation sequence, click either the "_Add My Operation Sequence_" or 
 
 After you click the _Add_ button, the sequence edition dialog opens, which lets you define the actual operations that will be performed when the sequence is invoked:
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 You first select the field to modify and then fill in the value that will be set. For each field type, a context-specific helpful description of allowed values and modifiers is displayed.
 

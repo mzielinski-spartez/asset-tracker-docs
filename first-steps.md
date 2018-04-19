@@ -12,7 +12,19 @@ To list available assets go to _Assets_ → _Browse Assets_ as shown on the scre
 
 ![](.gitbook/assets/image%20%2836%29.png)
 
+## Checking assets out and in
 
+You can 
+
+## Listing available assets
+
+To see which assets are available in the storeroom go to "Searches" and click "Available".
+
+{% hint style="info" %}
+Asset tracker provides a powerful search engine. You can learn more about this topic [here](searching/).
+{% endhint %}
+
+![](.gitbook/assets/image%20%2845%29.png)
 
 
 
