@@ -11,7 +11,7 @@
   * [Editing an asset](guide/editing-an-asset.md)
   * [Defining an asset field](guide/defining-an-asset-field.md)
   * [Creating links between assets](guide/creating-links-between-assets.md)
-  * [Creating issue for an asset](guide/untitled.md)
+  * [Creating issue for an asset](guide/creating-issue-for-an-asset.md)
   * [Customizing assets list view](guide/customizing-assets-list-view.md)
 * Mobile access
   * [Mobile view](mobile-access/mobile-view.md)

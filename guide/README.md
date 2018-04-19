@@ -17,7 +17,7 @@ After reading this tutorial you will know how Asset Tracker can help you in your
 
 {% page-ref page="creating-links-between-assets.md" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="creating-issue-for-an-asset.md" %}
 
 {% page-ref page="customizing-assets-list-view.md" %}
 
