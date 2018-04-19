@@ -16,25 +16,25 @@ You need to prepare a separate CSV file for each of your asset types. You can pr
 
 The first row of the CSV file must contain cells which contain "dotted" field type names \(see image below\). These field type names must match the dotted names defined in Asset Tracker.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 
 
 CSV file example:
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 
 
 The best way to create a skeleton CSV file is to export data from Asset Tracker asset browser:
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 
 
 The best way to get all fields' dotted names is to select "All fields" in the dialog that is popped up:
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 
 
@@ -46,7 +46,7 @@ Subsequent rows of the CSV file should contain actual data to be imported.
 
 In order to import the prepared CSV file go to _Administration-&gt;Import/Export-&gt;Import Data_:
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 There, you need to specify what item type you want to import, the separator character and the format used in date/time fields. The allowed formats for date/time are defined [here](http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html). A typical date format would be something like:
 

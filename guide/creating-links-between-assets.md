@@ -4,7 +4,7 @@ Link is a relationship between two assets. For example a mouse or a display can 
 
 This kind of relationship is very useful in asset management. For example - you can see all assets that belong to given user with just one click with Asset Tracker!
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 Creating a new link between two assets in Asset Tracker is extremely simple and you can do it with just a few clicks.
 

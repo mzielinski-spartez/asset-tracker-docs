@@ -36,5 +36,5 @@ Asset Tracker lets you view assets and add issues for assets that belong to the 
 
 To add this gadget, open dashboard gadgets list in Jira and find the "Asset Tracker Assets" gadget:
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
