@@ -1,7 +1,7 @@
 # Scheduled searches
 
 {% hint style="info" %}
-In order for the scheduled queries to work, outgoing emails must be [configured correctly in Jira](https://confluence.atlassian.com/adminjiraserver073/configuring-jira-s-smtp-mail-server-to-send-notifications-861253781.html) and recipient users must have valid email addresses.
+In order for the scheduled queries to work, outgoing emails must be [configured correctly in Jira](https://confluence.atlassian.com/adminjiraserver/configuring-an-smtp-mail-server-to-send-notifications-947184044.html) and recipient users must have valid email addresses.
 {% endhint %}
 
 Public searches can be scheduled for background exectution. This means that once every scheduled interval, the search query will be ran over the Asset Tracker data. If the query returns more than zero results, configured users are sent an email containing these results.
