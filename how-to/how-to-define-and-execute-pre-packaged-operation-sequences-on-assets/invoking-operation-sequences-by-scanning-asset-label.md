@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Asset Tracker provides [iPhone and Android applications](https://confluence.spartez.com/display/AT4J/Label+Scanners) which let you quickly scan [asset labels](../how-to-print-labels-for-assets.md).
+Asset Tracker provides [iPhone and Android applications](../../mobile-access/label-scanners.md) which let you quickly scan [asset labels](../how-to-print-labels-for-assets.md).
 
 Scanning the label with this application automatically updates the asset record by performing a selected [operation sequences](./).
 

@@ -72,9 +72,9 @@ If the application adds the field to asset type, you will; have to manually rein
 
 ### Identify missing assets
 
-After you have finished scanning your asset QR code labels, you can go to Asset Tracker and [search](https://confluence.spartez.com/display/AT4J/Searching) for assets that have not been scanned \(and therefore can be assumed missing or misplaced\).
+After you have finished scanning your asset QR code labels, you can go to Asset Tracker and [search](../searching/) for assets that have not been scanned \(and therefore can be assumed missing or misplaced\).
 
-For example, if you are using a [field](https://confluence.spartez.com/display/AT4J/Defining+an+asset+field) with the `last.check` name, you can run the following Asset Tracker query:
+For example, if you are using a [field](../guide/defining-an-asset-field.md) with the `last.check` name, you can run the following Asset Tracker query:
 
 ```text
 last.check < -1d OR last.check IS EMPTY

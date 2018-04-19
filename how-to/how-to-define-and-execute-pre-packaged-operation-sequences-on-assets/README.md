@@ -4,10 +4,10 @@ Stored operation sequences are configurable sets of operations that you can perf
 
 These operation sequences can be invoked in a variety of ways:
 
-* [manually](untitled-1.md)
-* automatically from Jira [workflow post-function](untitled-3.md)
-* automatically from [Service Desk "if-then" automation](untitled-2.md)
-* from the Asset Tracker's [mobile application](untitled-4.md) when the asset label is scanned
+* [manually](invoking-operation-sequences-manually.md)
+* automatically from Jira [workflow post-function](automated-operation-sequence-execution-in-jira.md)
+* automatically from [Service Desk "if-then" automation](automated-operation-sequence-execution-in-jsd.md)
+* from the Asset Tracker's [mobile application](invoking-operation-sequences-by-scanning-asset-label.md) when the asset label is scanned
 
 One operation sequence can contain multiple operations, setting many asset fields in one go.
 

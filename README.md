@@ -19,5 +19,5 @@ With Asset Tracker for Jira, you can:
   * [Define asset hierarchies, such as parent &lt;&gt; child tree](guide/working-with-folders.md)
 * Link assets with your Jira Software or Service Desk projects
   * [Streamline support, purchasing or HR related requests tied to your assets](integrations/asset-custom-field/service-desk.md)
-  * [Automate actions on your assets with post-function workflows in Jira](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-3.md)
+  * [Automate actions on your assets with post-function workflows in Jira](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/automated-operation-sequence-execution-in-jira.md)
 

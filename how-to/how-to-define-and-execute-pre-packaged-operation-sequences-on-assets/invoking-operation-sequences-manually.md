@@ -28,7 +28,7 @@ The same dialog as the one described in the previous section is shown and the ex
 
 ### On issue page
 
-If you have an asset associated with an issue using [Asset custom field](https://confluence.spartez.com/display/AT4J/Asset+custom+field), you can execute the operation sequence by clicking the "..." button next to the asset name:
+If you have an asset associated with an issue using [Asset custom field](../../integrations/asset-custom-field/), you can execute the operation sequence by clicking the "..." button next to the asset name:
 
 ![](https://confluence.spartez.com/download/attachments/36733365/issuetrigger.png?version=1&modificationDate=1496396230425&api=v2&effects=drop-shadow)
 

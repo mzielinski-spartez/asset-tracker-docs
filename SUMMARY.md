@@ -50,8 +50,8 @@
   * [How to perform inventory checks](how-to/how-to-perform-inventory-checks.md)
   * [How to define and execute pre-packaged operation sequences on assets](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/README.md)
     * [Defining operation sequences](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/defining-operation-sequences.md)
-    * [Invoking operation sequences manually](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-1.md)
-    * [Automated operation sequences execution in Service Desk](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-2.md)
-    * [Automated operation sequences execution in JIRA](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-3.md)
-    * [Invoking operation sequences by scanning asset label](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/untitled-4.md)
+    * [Invoking operation sequences manually](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/invoking-operation-sequences-manually.md)
+    * [Automated operation sequences execution in Service Desk](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/automated-operation-sequence-execution-in-jsd.md)
+    * [Automated operation sequences execution in JIRA](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/automated-operation-sequence-execution-in-jira.md)
+    * [Invoking operation sequences by scanning asset label](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/invoking-operation-sequences-by-scanning-asset-label.md)
 
