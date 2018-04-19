@@ -2,7 +2,6 @@
 
 * [Asset Tracker for Jira](README.md)
 * [Installation](installation.md)
-* [First steps](first-steps.md)
 * [Guide](guide/README.md)
   * [Basic terms](guide/basic-terms.md)
   * [Creating new asset type](guide/creating-new-asset-type.md)

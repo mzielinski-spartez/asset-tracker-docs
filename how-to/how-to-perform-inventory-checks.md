@@ -36,7 +36,7 @@ Once you set up the profile, you can press the "Scan" button to begin inventory 
 {% tab title="Android" %}
 
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 {% endtab %}
 
 {% tab title="iPhone" %}

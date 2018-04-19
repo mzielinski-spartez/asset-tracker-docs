@@ -28,13 +28,13 @@ CSV file example:
 
 The best way to create a skeleton CSV file is to export data from Asset Tracker asset browser:
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 
 
 The best way to get all fields' dotted names is to select "All fields" in the dialog that is popped up:
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 
 

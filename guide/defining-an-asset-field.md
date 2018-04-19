@@ -4,7 +4,7 @@ Asset Tracker comes with a built-in basic set of asset fields. When default fiel
 
 Go to Administration and in section "Field Types" click "Add Field Type" button.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 
 
