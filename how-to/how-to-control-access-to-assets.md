@@ -2,7 +2,7 @@
 
 Asset Tracker allows limiting access to administration, browsing and editing assets to specified Jira groups. \(See image below\).
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 
 

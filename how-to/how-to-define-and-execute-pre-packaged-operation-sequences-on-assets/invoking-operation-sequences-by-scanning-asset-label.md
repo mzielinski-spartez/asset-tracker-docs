@@ -12,12 +12,12 @@ To actually run the inventory check, you need the [Android or iPhone application
 
 {% tabs %}
 {% tab title="Android" %}
-| ![](../../.gitbook/assets/image%20%2812%29.png) | ![](../../.gitbook/assets/image%20%2853%29.png) |
+| ![](../../.gitbook/assets/image%20%2813%29.png) | ![](../../.gitbook/assets/image%20%2857%29.png) |
 | --- |
 {% endtab %}
 
 {% tab title="iPhone" %}
-| ![](../../.gitbook/assets/image%20%2832%29.png) | ![](../../.gitbook/assets/image%20%286%29.png) |
+| ![](../../.gitbook/assets/image%20%2834%29.png) | ![](../../.gitbook/assets/image%20%286%29.png) |
 | --- |
 {% endtab %}
 {% endtabs %}
@@ -29,11 +29,11 @@ Once you set up the profile, you can press the "Scan" button to execute the sele
 
 {% tabs %}
 {% tab title="Android" %}
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 {% endtab %}
 
 {% tab title="iPhone" %}
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -41,11 +41,11 @@ Scanning is fully automated - when the QR code is identified, the operation sequ
 
 {% tabs %}
 {% tab title="Android" %}
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}
 
 {% tab title="iPhone" %}
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 {% endtab %}
 {% endtabs %}
 

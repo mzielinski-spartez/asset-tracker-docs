@@ -6,15 +6,15 @@ Operation sequences can be added and edited from a couple of places:
 
 * from the asset's "cog" menu in asset browser:
 
-  ![](https://confluence.spartez.com/download/attachments/36733363/browser1.png?version=1&modificationDate=1496396088874&api=v2&effects=drop-shadow)
+  ![](../../.gitbook/assets/image%20%288%29.png)
 
 * from the "Operations" menu for the selected assets in asset browser:
 
-  ![](https://confluence.spartez.com/download/attachments/36733363/browser2.png?version=1&modificationDate=1496396110623&api=v2&effects=drop-shadow)
+  ![](../../.gitbook/assets/image%20%2826%29.png)
 
 * from the button on the asset page:
 
-  ![](../../.gitbook/assets/image%20%2819%29.png)
+  ![](../../.gitbook/assets/image%20%2820%29.png)
 
 ### Adding and editing operation sequence
 
@@ -28,11 +28,11 @@ The dialog allows adding, editing and deleting operstion sequences, as well as e
 
 To add an operation sequence, click either the "_Add My Operation Sequence_" or the "_Add Public Operation Sequence_" button. This opens the dialog letting you define the sequence name:
 
-![](https://confluence.spartez.com/download/attachments/36733363/add.png?version=1&modificationDate=1496396027559&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 After you click the _Add_ button, the sequence edition dialog opens, which lets you define the actual operations that will be performed when the sequence is invoked:
 
-![](https://confluence.spartez.com/download/attachments/36733363/edit.png?version=1&modificationDate=1496396049324&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 You first select the field to modify and then fill in the value that will be set. For each field type, a context-specific helpful description of allowed values and modifiers is displayed.
 
