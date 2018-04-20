@@ -1,4 +1,4 @@
-# Jira Service Desk
+# Integration with Jira Service Desk
 
 ### Usage
 

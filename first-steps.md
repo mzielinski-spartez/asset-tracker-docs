@@ -30,5 +30,29 @@ Asset tracker provides a powerful search engine. You can learn more about this t
 
 ![](.gitbook/assets/image%20%2847%29.png)
 
-## Configuring your mobile device
+## Configuring mobile device for check-in / check-out
+
+Asset Tracker provides mobile applications supporting check-in / check-out process. You can learn about this functionality [on this page](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/invoking-operation-sequences-by-scanning-asset-label.md).
+
+{% hint style="info" %}
+We are currently in the process of redesigning our mobile apps for better support of the check-in / check-out process. Reach us at [support@spartez.com](mailto:support@spartez.com) if you want to participate in our open beta testing program.
+{% endhint %}
+
+## Next steps
+
+Click one of the topics below to learn more about what you can do with Asset Tracker.
+
+{% page-ref page="how-to/how-to-import-data-from-external-sources/importing-from-a-csv-file.md" %}
+
+{% page-ref page="how-to/how-to-import-data-from-external-sources/importing-from-scanned-computer-equipment/" %}
+
+{% page-ref page="mobile-access/mobile-view.md" %}
+
+{% page-ref page="how-to/how-to-create-reports.md" %}
+
+{% page-ref page="integrations/service-desk.md" %}
+
+{% page-ref page="integrations/rest-api.md" %}
+
+
 

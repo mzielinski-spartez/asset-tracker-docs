@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Asset Tracker for Jira](README.md)
-* [Installation](installation.md)
 * [First steps](first-steps.md)
 * [Guide](guide/README.md)
   * [Basic terms](guide/basic-terms.md)
@@ -26,7 +25,7 @@
 * Integrations
   * [Jira asset field](integrations/jira-asset-field/README.md)
     * [Asset field statistics](integrations/jira-asset-field/asset-field-statistics.md)
-  * [Jira Service Desk](integrations/service-desk.md)
+  * [Integration with Jira Service Desk](integrations/service-desk.md)
   * [REST API](integrations/rest-api.md)
 * How to
   * [How to control access to assets](how-to/how-to-control-access-to-assets.md)
