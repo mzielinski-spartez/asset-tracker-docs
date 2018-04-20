@@ -32,9 +32,9 @@ When defining the action to perform \("_THEN_" clause\), select the _"Modify ass
 
 This opens the dialog which lets you select the action to use \(only public actions are available, because the post function has to be available for all users\). You can even add a new action directly from this panel, by clicking the "_Add_" link.
 
-![](https://confluence.spartez.com/download/attachments/36733369/sd6.png?version=1&modificationDate=1496397067818&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/automation_-_service_desk%20%281%29.png)
 
-The "_Ignore asset field operation errors" _checkbox can be used to not generate an error when the action produces an error \(for example if the value of the field to set is invalid\). If this checkbox is cleared, the error will generate entry in Service Desk error log. Otherwise, it will only produce a warning message in Jira log file.
+The "_Ignore action errors" _checkbox can be used to not generate an error when the action produces an error \(for example if the value of the field to set is invalid\). If this checkbox is cleared, the error will generate entry in Service Desk error log. Otherwise, it will only produce a warning message in Jira log file.
 
 ![](https://confluence.spartez.com/download/attachments/36733369/sdlog.png?version=1&modificationDate=1496402512145&api=v2&effects=drop-shadow)
 

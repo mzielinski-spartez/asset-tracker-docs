@@ -4,17 +4,17 @@ After you [define the action](defining-operation-sequences.md), you can invoke i
 
 ### In asset browser
 
-* from the "cog" menu of the individual asset \(action is applied to this asset\):
+1. From the "cog" menu of the individual asset \(action is applied to this asset\):
 
-  ![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/cog-menu.png)
 
-* from the "Actions" menu for selected assets \(action is applied to all selected assets\):
+2. from the "Actions" menu for selected assets \(action is applied to all selected assets\):
 
-  ![](https://confluence.spartez.com/download/attachments/36733363/browser2.png?version=1&modificationDate=1496396110623&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%283%29.png)
 
 In both cases, this dialog shows up
 
-![](https://confluence.spartez.com/download/attachments/36733363/oplist.png?version=1&modificationDate=1496396005769&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%282%29.png)
 
 In the dialog, find the action that you want to invoke, either in "_My actions" _or _"Public actions" _tab, and click "_Execute_".
 
@@ -34,7 +34,7 @@ If you have an asset associated with an issue using [Asset custom field](../../i
 
 This opens the "simplified" action dialog:
 
-![](https://confluence.spartez.com/download/attachments/36733365/issue.png?version=1&modificationDate=1496396329156&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/_test-3__my_laptop_broke_-_your_company_jira.png)
 
-In this dialog, first select the action you want and then click the "_Execute"_ button
+In this dialog, first select the action you want and then click the "_Execute"_ button.
 
