@@ -1,8 +1,8 @@
-# Automated operation sequences execution in Service Desk
+# Automated actions execution in Service Desk
 
-Service Desk contains the [automation](https://confluence.atlassian.com/servicedeskcloud/automating-your-service-desk-732528900.html) feature, allowing to execute predefined operations in response to various events, like creation of the request, adding a comment and so on.
+Service Desk contains the [automation](https://confluence.atlassian.com/servicedeskcloud/automating-your-service-desk-732528900.html) feature, allowing to execute predefined actions in response to various events, like creation of the request, adding a comment and so on.
 
-Asset Tracker provides a _THEN _rule, which plugs into this automation framework. This rule lets Service Desk automatically invoke operation sequence on an asset associated with a request. For example, this can be used to assign an asset to a requesting user, mark the asset as broken or fixed, etc.
+Asset Tracker provides a _THEN _rule, which plugs into this automation framework. This rule lets Service Desk automatically invoke action on an asset associated with a request. For example, this can be used to assign an asset to a requesting user, mark the asset as broken or fixed, etc.
 
 In order to add an automation rule that modifies the asset, first pick "_Automation_" from the Service Desk project's administration menu:
 
@@ -30,11 +30,11 @@ When defining the action to perform \("_THEN_" clause\), select the _"Modify ass
 
 ![](https://confluence.spartez.com/download/attachments/36733369/sd5.png?version=1&modificationDate=1496397044699&api=v2&effects=drop-shadow)
 
-This opens the dialog which lets you select the operation sequence to use \(only public sequences are available, because the post function has to be available for all users\). You can even add a new operation sequence directly from this panel, by clicking the "_Add_" link.
+This opens the dialog which lets you select the action to use \(only public actions are available, because the post function has to be available for all users\). You can even add a new action directly from this panel, by clicking the "_Add_" link.
 
 ![](https://confluence.spartez.com/download/attachments/36733369/sd6.png?version=1&modificationDate=1496397067818&api=v2&effects=drop-shadow)
 
-The "_Ignore asset field operation errors" _checkbox can be used to not generate an error when the operation sequence produces an error \(for example if the value of the field to set is invalid\). If this checkbox is cleared, the error will generate entry in Service Desk error log. Otherwise, it will only produce a warning message in Jira log file.
+The "_Ignore asset field operation errors" _checkbox can be used to not generate an error when the action produces an error \(for example if the value of the field to set is invalid\). If this checkbox is cleared, the error will generate entry in Service Desk error log. Otherwise, it will only produce a warning message in Jira log file.
 
 ![](https://confluence.spartez.com/download/attachments/36733369/sdlog.png?version=1&modificationDate=1496402512145&api=v2&effects=drop-shadow)
 

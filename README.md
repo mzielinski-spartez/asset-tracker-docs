@@ -12,7 +12,7 @@ With Asset Tracker for Jira, you can:
 * Tag all of your physical assets with printable QR codes and labels
   * [Updating assets is as easy as scanning a QR code](mobile-access/label-scanners.md)
 * Allow employees or customers to seamlessly check-out / check-in assets via our mobile apps
-  * Scan a QR code, then check-out / check-in assets
+  * [Scan a QR code, then check-out / check-in assets](how-to/how-to-define-and-execute-pre-packaged-operation-sequences-on-assets/invoking-operation-sequences-by-scanning-asset-label.md)
   * Help employees help themselves with self-service check-outs
 * Build links and relationships between assets
   * [Create and visualise asset groups, such as on-boarding hardware / software bundles](guide/creating-links-between-assets.md)
