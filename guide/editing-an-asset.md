@@ -22,19 +22,19 @@ For asset image, clicking on the image itself zooms the image to full page. To c
 
 It is also possible to edit asset fields in bulk - setting a field to the same value in multiple assets in one go. To do this, select some assets and pick the "Edit field" menu option:
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Then, pick the field to edit, set its value and click "Save". That's it - the value is changed in all selected assets.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ### "My assets" dashboard gadget
 
 Asset Tracker lets you view assets and add issues for assets that belong to the user, or assets resulting from a query.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 To add this gadget, open dashboard gadgets list in Jira and find the "Asset Tracker Assets" gadget:
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
