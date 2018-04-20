@@ -10,11 +10,11 @@ After you [define the action](defining-operation-sequences.md), you can invoke i
 
 2. from the "Actions" menu for selected assets \(action is applied to all selected assets\):
 
-![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%283%29.png)
+![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%284%29.png)
 
 In both cases, this dialog shows up
 
-![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%282%29.png)
+![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%283%29.png)
 
 In the dialog, find the action that you want to invoke, either in "_My actions" _or _"Public actions" _tab, and click "_Execute_".
 
