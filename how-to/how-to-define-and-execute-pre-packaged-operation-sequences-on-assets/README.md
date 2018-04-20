@@ -17,5 +17,5 @@ Actions can set asset fields to predefined values, as well as modify existing va
 * append a text to a text field
 * set a date field by a specific time interval from the time of operation execution
 
-Actions' definitions can contain special temple markers to be filled during operation sequence execution. See [special markers](defining-operation-sequences.md) for more information.
+Actions' definitions can contain special template markers to be filled during operation sequence execution. See [special markers](defining-operation-sequences.md) for more information.
 
