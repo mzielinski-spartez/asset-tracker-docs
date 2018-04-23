@@ -4,23 +4,23 @@
 
 Actions can be added and edited from a couple of places:
 
-* from the asset's "cog" menu in asset browser:
+1. From the asset's "cog" menu in asset browser:
 
-  ![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/cog-menu%20%281%29.png)
 
-* from the "Actions" menu for the selected assets in asset browser:
+2. From the "Actions" menu for the selected assets in asset browser:
 
-  ![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/bulk.png)
 
-* from the button on the asset page:
+3. From the button on the asset page:
 
-  ![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ### Adding and editing actions
 
 Invoking the Actions presents this dialog:
 
-![](https://confluence.spartez.com/download/attachments/36733363/oplist.png?version=1&modificationDate=1496396005769&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/dialog.png)
 
 The dialog contains "_My actions_" tab and "_Public actions_" tab. Public actions can only be added and edited by Asset Tracker administrators. 
 
@@ -28,11 +28,11 @@ The dialog allows adding, editing and deleting actions, as well as executing the
 
 To add an action, click either the "_Add My Action_" or the "_Add Public Action_" button. This opens the dialog letting you define the action name:
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/asset_tracker_-_your_company_jira%20%286%29.png)
 
 After you click the _Add_ button, the action edition dialog opens, which lets you define the actual operations that will be performed when the it's invoked:
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/edit-action.png)
 
 You first select the field to modify and then fill in the value that will be set. For each field type, a context-specific helpful description of allowed values and modifiers is displayed.
 

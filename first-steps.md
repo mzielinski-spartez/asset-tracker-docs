@@ -4,7 +4,7 @@
 
 Asset Tracker provides visibility of the current state of your equipment. It tracks what devices you have and who is using them. Just like in the image below, it's clearly visible which mobile devices are available in the storeroom, and who has the others checked-out.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ## Browsing assets
 
@@ -13,7 +13,7 @@ Asset types are grouped into folders.
 To view specific Asset types, click the folder that you want to browse form the panel on the left.   
 \(Folder 'Mobile phones' is selected in the image below\)
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ## Asset check-out and check-in
 
@@ -24,7 +24,7 @@ You can check-in an asset the same way just click the "Check-in" button.
 It will mark the asset as 'Available' and remove the assignment from you.  
 i.e. When an Asset is available, there will be no assigned owner. 
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ## Viewing available assets
 
@@ -34,7 +34,7 @@ To see which assets are available, go to "Searches" and then click "Available".
 Asset tracker provides a powerful search engine. You can learn more about this topic [here](searching/).
 {% endhint %}
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2850%29.png)
 
 ## Configuring mobile device for check-in / check-out
 

@@ -29,13 +29,15 @@ This opens a page where you can select the type of function. Select "_Modify Ass
 
 This opens a page where you can select the action to use \(only public actions are available, because the post function has to be available for all users\). You can either select one of the existing actions, or add a new one. 
 
-![](https://confluence.spartez.com/download/attachments/36733367/w5.png?version=1&modificationDate=1496397541162&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/add_workflow_transition_function_-_your_company_jira.png)
 
 The "_Ignore asset field operation errors" _checkbox can be used to not generate an error when the action produces an error \(for example if the value of the field to set is invalid\). If this checkbox is cleared, the error will prevent transition from taking place and an error message willbe displayed. Otherwise, it will only produce a warning message in Jira log file.
 
 After selecting the action to use, click _"Add" _button.
 
-The post function executing the action has been added. Now you have to publish the draft of the modified workflow to apply the changes:
+The post function executing the action has been added. Now you have to publish the draft of the modified workflow to apply the changes.
 
-![](https://confluence.spartez.com/download/attachments/36733367/w6.png?version=1&modificationDate=1496397574014&api=v2&effects=drop-shadow)
+![](../../.gitbook/assets/transition__done_-_your_company_jira.png)
+
+
 
