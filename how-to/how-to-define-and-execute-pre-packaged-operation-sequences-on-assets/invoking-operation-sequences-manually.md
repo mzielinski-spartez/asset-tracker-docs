@@ -6,7 +6,7 @@ After you [define the operation sequence](defining-operation-sequences.md), you 
 
 * from the "cog" menu of the individual asset \(operation sequence is applied to this asset\):
 
-  ![](../../.gitbook/assets/image%20%2840%29.png)
+  ![](../../.gitbook/assets/image%20%2843%29.png)
 
 * from the "Operations" menu for selected assets \(operation sequence is applied to all selected assets\):
 

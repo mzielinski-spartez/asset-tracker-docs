@@ -10,23 +10,23 @@ Using Asset Tracker, you can easily report your data to CSV format that is compa
 
 You can either use folder tree or enter query in the "Search for assets" box like on the screen below \(see Search query syntax for details\).
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ### Pick or create report template
 
 Asset Tracker uses  "Field Templates" to define what fields will be included in reported data. Click "Visible fields" and then "Edit templates". The "Visible Fields Templates" screen will appear.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 You can create new template using "+" \(plus\) button. Select fields that will be reported and set their order.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### Generate report
 
 You have already defined what assets and which fields will be exported. Now click "Export" → "All assets" in order to create your report. 
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Now you can use Microsoft Excel® or any other spreadsheet software to open created report.
 
