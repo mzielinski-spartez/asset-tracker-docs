@@ -27,6 +27,7 @@
     * [Asset field statistics](integrations/jira-asset-field/asset-field-statistics.md)
   * [Jira Service Desk](integrations/service-desk.md)
   * [REST API](integrations/rest-api.md)
+  * [Api example](integrations/api-example.md)
 * How to
   * [How to control access to assets](how-to/how-to-control-access-to-assets.md)
   * [How to create reports](how-to/how-to-create-reports.md)
